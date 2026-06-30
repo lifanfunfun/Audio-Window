@@ -1,20 +1,76 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Audio Window
 
-# Run and deploy your AI Studio app
+> A retro-inspired jewelry-based interactive music application where hand gestures generate unique rhythms and melodies in real time.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/1f04daad-d441-4a55-a097-8080c7497906
+## Overview
 
-## Run Locally
+Audio Window is an experimental interactive music application that combines retro interface aesthetics, gesture recognition, and generative sound design.
 
-**Prerequisites:**  Node.js
+Instead of pressing buttons or playing traditional instruments, users interact through hand gestures. Every movement creates unique musical rhythms and melodies, making each performance different.
 
+The project explores how digital interfaces can become expressive musical instruments.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Features
+
+- 🎵 Real-time gesture-controlled music generation
+- 💍 Jewelry-inspired interaction design
+- 🖥️ Retro operating system interface
+- 🎹 Random rhythm & melody generation
+- ⚡ Instant audio feedback
+- 🎨 Pixel-inspired visual style
+
+---
+
+## Design Concept
+
+Audio Window is inspired by vintage desktop operating systems and experimental electronic instruments.
+
+The interface behaves like an old software window while functioning as a contemporary musical instrument. The goal is to make digital interaction playful, nostalgic, and expressive.
+
+---
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Google AI Studio
+- Gemini API
+- Web Audio API
+
+---
+
+## Preview
+
+Project screenshots will be added here.
+
+---
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## Future Plans
+
+- More gesture mappings
+- Expanded sound libraries
+- Recording & exporting performances
+- Multi-user interaction
+- Hardware integration
+
+---
+
+## Author
+
+Designed & Developed by **LI FAN**
+
+© 2026 LI FAN. All Rights Reserved.
