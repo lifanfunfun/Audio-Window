@@ -1,0 +1,6 @@
+{
+  "name": "CAMERA.EXE",
+  "description": "A retro 90s DOS-style hand-gesture camera debugger and synthesizer console with monochrome vector skeletal tracking, CRT scanner effects, and raw electronic controls.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
